@@ -1,0 +1,14 @@
+{
+    "intents": [{
+        "intent": "NumberIntent",
+        "slots": [{
+                "name": "myNumber",
+                "type": "AMAZON.NUMBER"
+            },
+            {
+                "name": "myDecimal",
+                "type": "AMAZON.NUMBER"
+            }
+        ]
+    }]
+}

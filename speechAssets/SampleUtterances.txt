@@ -1,0 +1,7 @@
+NumberIntent {myNumber}
+NumberIntent my number is {myNumber}
+NumberIntent Say anything but must say {myNumber} somewhere in your speech
+
+NumberIntent {myNumber} point {myDecimal}
+NumberIntent my number is {myNumber} point {myDecimal}
+NumberIntent Say anything but must say {myNumber} point {myDecimal} somewhere in your speech
